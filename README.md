@@ -1,0 +1,2 @@
+# Text-Visualization
+A text visualization software written with d3 plus which is a JavaScript library that extends the popular D3.js to enable fast and beautiful design of different types of chart. D3 plus extends d3 for a more intuitive and direct visual display. This program also combines the power of PHP, HTML, JavaScript and d3plus. With this program, a user can easily discover what the whole text document is all about as it reveals all the co-occurring keywords at a glance.
